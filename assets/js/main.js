@@ -191,4 +191,6 @@
 
   window.addEventListener("load", initSwiper);
 
+  
+
 })();
